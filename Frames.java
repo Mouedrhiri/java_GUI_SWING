@@ -6,7 +6,7 @@ import javax.swing.JFrame;
 public class Frames {
     public static void main(String[] args) {
 
-        //JFrame = a GUI zindoz to add components to
+        //JFrame = a GUI window to add components to
 
         JFrame frame = new JFrame(); //Create a frame
         frame.setTitle("Ouedrhiri Frames - Unicaen");//Set title of the frame
